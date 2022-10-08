@@ -1,0 +1,133 @@
+
+rules of variables:-
+1) cant start with number
+2) no backspace within a name 
+3) cant use special characters , but can use undescore(_)
+4) cant use keyword 
+
+----------------------------
+
+
+7 types of Pyhton Operator:-
+1) arithmatic                             + , - , / , * , // , **
+2) comaprison/relational operator         > , < , >= , <= , == , != 
+3) ASSIGNMENT                             + , += , -= , *= , /= , //=
+4) bitwise                                & , | , ^ 
+5) logical                                and , or , not 
+6) identity                               is , is not
+7) membership                             in , not in
+
+------------------------------
+
+Brackets :- 
+() : function , expression , tuple 
+[] : list , indexing , slicing  
+{} : set , dictionary 
+<> : #useless
+
+-----------------------------
+
+
+Data Types in Python :-
+1) numeric    : int     : a=5
+                float   : b=5.5
+                complex : c=3+5j
+2) string     : str     : a = 'hello'/ a = "hello"/ a = '''hi'''
+                          b="'hello'" (not possible)
+3) list       : list    : my list = ['abc',,5.5,2+6]
+4) tuple      : tuple   : my tuple = (45,4.5,'hii','bye')
+5) set        : set     : (1,23,56,50)
+6) dictionary : dict    : (key: value)
+7) boolean    : bool    : True , False 
+
+-----------------------------
+String :-
+1) indexing    : a[1] , a[1:5] , a[-1] , a[0:-4] , a[:2] , a[-5:] , a[6:] , a[-5,-1] , a[::-1] , a[-1::-1] 
+
+-----------------------------
+
+
+List :-
+1) += , append
+2) extend  : []
+3) insert  : (2,'new value')  : 2 is index at which new value will be added
+4) pop     : removes by index
+5) remove  : removes by element name 
+6) clear   : deletes all elements
+7) max , min , len
+
+----------------------------
+
+
+Set :-
+1) intersection
+2) union
+3) discard
+4) add
+5) update
+6) clear 
+7) max, min , len
+
+------------------------------
+
+
+Data Type Dictionary :-
+1) unordered
+2) key value pair
+3) indexing / slicing not possible
+
+-----------------------------
+
+
+Statements :-
+1) condition / decision making  : if-elif-else (suites / indentation)
+2) looping                      : for , while  
+3) exception handling           : try , except 
+
+------------------------------
+
+
+range(start point(including) , stop point(excluding), step(by default 1)
+            (by default 0)
+
+------------------------------
+
+
+Module :   it is a .py file  : Ex. OS , Math
+1) packages    : it is a collection of modules   :  _init_.py
+2) libraries   : it is a collection of packages  : 
+
+----------------------------------
+
+
+numpy arrays :-
+
+sum of column : axis = 0
+sum os rows   : axis = 1 
+
+---------------------------------
+
+
+Movies related file questions :-
+
+q.1) find the longest movie name?
+
+q.2) find the number of movies got 10 star rating?
+
+q.3) how many industries r there?
+
+q.4) find the least liked comedy movie name?
+
+q.5) find the longest english ?
+
+q.6) what is the genre of interstellar ?
+
+q.7) what is the average duration of each genre?
+
+q.8) what is the average rating of each industry?
+
+q.9) average rating of romantic movies industry wise?
+
+q.10) list down all the english movies with their respectie ratings in descending order.
+
+---------------------------------------
